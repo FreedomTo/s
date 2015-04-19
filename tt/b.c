@@ -1,1 +1,4 @@
-asfdsaf
+int name(void)
+{
+	printf("sdf");
+}
