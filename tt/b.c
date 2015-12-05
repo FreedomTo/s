@@ -2,6 +2,6 @@
 
 int main(void)
 {
-	printf("sdf");
-	printf("sdf");
+	printf("\nsdf\n");
+	printf("\nsdf\n\n");
 }
